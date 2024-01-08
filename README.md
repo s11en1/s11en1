@@ -14,8 +14,6 @@
 
   ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s11en1&layout=donut)](https://github.com/s11en1/github-readme-stats)
-
 <!-- Technologies -->
 
 ## The technology stack that I use

@@ -1,7 +1,7 @@
 
 # Hi there, I'm Oleg 
 
-![image](https://github.com/s11en1/s11en1/assets/132915375/f3a0bb2a-4f64-4a7d-b981-3f2b68be336d)
+![satoru](https://github.com/s11en1/s11en1/assets/132915375/90591319-7dc5-48ba-9622-df35ed1a3425)
 
 <!-- About me -->
 

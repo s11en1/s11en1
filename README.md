@@ -7,10 +7,19 @@
 
 ## About me
 
-  So, a few words about me: My name is Oleg,  
-  I am 18 years old, I am a student. I am a  
-  3rd year college student in the field of Information  
-  Systems and Programming.
+> [!IMPORTANT]
+>  So, a few words about me: My name is Oleg, I am 18 years old, I am a student.  
+>  I am a 3rd year college student in the field of information systems and programming.  
+>  I am currently actively studying in the IT field. At the moment, I'm more attracted to  
+>  game development. I am studying the Unity game engine and have some project cases on the  
+>  Yandex Games marketplace.
+
+>  [!NOTE]
+> A link to my Yandex Games account for review: https://yandex.ru/games/developer?name=SoloPerson
+
+> [!Important]
+>  Right now, my main development language is C# for game development, console, window applications  
+>  and database interaction. But in the future, I want to expand my arsenal of knowledge.
 
   ---
 
